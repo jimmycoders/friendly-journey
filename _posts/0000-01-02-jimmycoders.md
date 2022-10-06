@@ -1,6 +1,6 @@
 ---
 Layout: Slide
-Title: "Welcome to my slide"
+Title: "Welcome to jimmycoders slide"
 ---
 Here is a new line bros
 My test here
